@@ -1,0 +1,54 @@
+[
+    {
+        "thoughtText": "I'm really enjoying coding bootcamp so far!",
+        "username": "user1",
+        "reactions": [
+            {
+                "reactionBody": "That's great to hear! Keep up the good work!",
+                "username": "user2"
+            },
+            {
+                "reactionBody": "Coding is a lot of fun, isn't it?",
+                "username": "user3"
+            }
+        ]
+    },
+    {
+        "thoughtText": "Struggling with JavaScript, but I won't give up.",
+        "username": "user4",
+        "reactions": [
+            {
+                "reactionBody": "JavaScript can be tricky, but you've got this!",
+                "username": "user5"
+            }
+        ]
+    },
+    {
+        "thoughtText": "Just built my first full-stack app. Feeling proud!",
+        "username": "user6",
+        "reactions": [
+            {
+                "reactionBody": "Congratulations! That's a big accomplishment.",
+                "username": "user7"
+            },
+            {
+                "reactionBody": "Awesome! What technology stack did you use?",
+                "username": "user8"
+            },
+            {
+                "reactionBody": "Keep up the good work!",
+                "username": "user9"
+            }
+        ]
+    },
+    {
+        "thoughtText": "Python is such a versatile language.",
+        "username": "user10",
+        "reactions": [
+            {
+                "reactionBody": "Absolutely! You can use Python for so many things.",
+                "username": "user1"
+            }
+        ]
+    }
+]
